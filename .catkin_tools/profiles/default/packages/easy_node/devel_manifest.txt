@@ -1,0 +1,7 @@
+dt-core/packages/easy_node
+/code/catkin_ws/devel/.private/easy_node/cmake.lock /code/catkin_ws/devel/./cmake.lock
+/code/catkin_ws/devel/.private/easy_node/share/easy_node/cmake/easy_nodeConfig-version.cmake /code/catkin_ws/devel/share/easy_node/cmake/easy_nodeConfig-version.cmake
+/code/catkin_ws/devel/.private/easy_node/share/easy_node/cmake/easy_nodeConfig.cmake /code/catkin_ws/devel/share/easy_node/cmake/easy_nodeConfig.cmake
+/code/catkin_ws/devel/.private/easy_node/lib/python3/dist-packages/easy_node_tests/__init__.py /code/catkin_ws/devel/lib/python3/dist-packages/easy_node_tests/__init__.py
+/code/catkin_ws/devel/.private/easy_node/lib/python3/dist-packages/easy_node/__init__.py /code/catkin_ws/devel/lib/python3/dist-packages/easy_node/__init__.py
+/code/catkin_ws/devel/.private/easy_node/lib/pkgconfig/easy_node.pc /code/catkin_ws/devel/lib/pkgconfig/easy_node.pc

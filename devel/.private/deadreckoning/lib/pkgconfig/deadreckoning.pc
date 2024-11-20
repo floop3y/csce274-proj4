@@ -1,0 +1,8 @@
+prefix=/code/catkin_ws/devel/.private/deadreckoning
+
+Name: deadreckoning
+Description: Description of deadreckoning
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,3 @@
+Symlinking /code/catkin_ws/devel/lib/pkgconfig/apriltag.pc
+Symlinking /code/catkin_ws/devel/share/apriltag/cmake/apriltagConfig.cmake
+Symlinking /code/catkin_ws/devel/share/apriltag/cmake/apriltagConfig-version.cmake

@@ -1,0 +1,4 @@
+Symlinking /code/catkin_ws/devel/lib/pkgconfig/visualization_tools.pc
+Symlinking /code/catkin_ws/devel/lib/python3/dist-packages/visualization_tools/__init__.py
+Symlinking /code/catkin_ws/devel/share/visualization_tools/cmake/visualization_toolsConfig-version.cmake
+Symlinking /code/catkin_ws/devel/share/visualization_tools/cmake/visualization_toolsConfig.cmake

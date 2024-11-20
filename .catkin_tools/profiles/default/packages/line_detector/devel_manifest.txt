@@ -1,0 +1,6 @@
+dt-core/packages/line_detector
+/code/catkin_ws/devel/.private/line_detector/cmake.lock /code/catkin_ws/devel/./cmake.lock
+/code/catkin_ws/devel/.private/line_detector/share/line_detector/cmake/line_detectorConfig.cmake /code/catkin_ws/devel/share/line_detector/cmake/line_detectorConfig.cmake
+/code/catkin_ws/devel/.private/line_detector/share/line_detector/cmake/line_detectorConfig-version.cmake /code/catkin_ws/devel/share/line_detector/cmake/line_detectorConfig-version.cmake
+/code/catkin_ws/devel/.private/line_detector/lib/python3/dist-packages/line_detector/__init__.py /code/catkin_ws/devel/lib/python3/dist-packages/line_detector/__init__.py
+/code/catkin_ws/devel/.private/line_detector/lib/pkgconfig/line_detector.pc /code/catkin_ws/devel/lib/pkgconfig/line_detector.pc

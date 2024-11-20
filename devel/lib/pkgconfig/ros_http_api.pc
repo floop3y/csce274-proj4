@@ -1,0 +1,1 @@
+/code/catkin_ws/devel/.private/ros_http_api/lib/pkgconfig/ros_http_api.pc

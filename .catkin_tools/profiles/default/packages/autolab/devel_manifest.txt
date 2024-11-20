@@ -1,0 +1,5 @@
+dt-core/packages/autolab
+/code/catkin_ws/devel/.private/autolab/cmake.lock /code/catkin_ws/devel/./cmake.lock
+/code/catkin_ws/devel/.private/autolab/share/autolab/cmake/autolabConfig.cmake /code/catkin_ws/devel/share/autolab/cmake/autolabConfig.cmake
+/code/catkin_ws/devel/.private/autolab/share/autolab/cmake/autolabConfig-version.cmake /code/catkin_ws/devel/share/autolab/cmake/autolabConfig-version.cmake
+/code/catkin_ws/devel/.private/autolab/lib/pkgconfig/autolab.pc /code/catkin_ws/devel/lib/pkgconfig/autolab.pc

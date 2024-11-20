@@ -1,0 +1,7 @@
+dt-core/packages/easy_logs
+/code/catkin_ws/devel/.private/easy_logs/cmake.lock /code/catkin_ws/devel/./cmake.lock
+/code/catkin_ws/devel/.private/easy_logs/share/easy_logs/cmake/easy_logsConfig-version.cmake /code/catkin_ws/devel/share/easy_logs/cmake/easy_logsConfig-version.cmake
+/code/catkin_ws/devel/.private/easy_logs/share/easy_logs/cmake/easy_logsConfig.cmake /code/catkin_ws/devel/share/easy_logs/cmake/easy_logsConfig.cmake
+/code/catkin_ws/devel/.private/easy_logs/lib/python3/dist-packages/easy_logs_tests/__init__.py /code/catkin_ws/devel/lib/python3/dist-packages/easy_logs_tests/__init__.py
+/code/catkin_ws/devel/.private/easy_logs/lib/python3/dist-packages/easy_logs/__init__.py /code/catkin_ws/devel/lib/python3/dist-packages/easy_logs/__init__.py
+/code/catkin_ws/devel/.private/easy_logs/lib/pkgconfig/easy_logs.pc /code/catkin_ws/devel/lib/pkgconfig/easy_logs.pc

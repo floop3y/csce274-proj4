@@ -1,0 +1,6 @@
+dt-core/packages/explicit_coordinator
+/code/catkin_ws/devel/.private/explicit_coordinator/cmake.lock /code/catkin_ws/devel/./cmake.lock
+/code/catkin_ws/devel/.private/explicit_coordinator/share/explicit_coordinator/cmake/explicit_coordinatorConfig-version.cmake /code/catkin_ws/devel/share/explicit_coordinator/cmake/explicit_coordinatorConfig-version.cmake
+/code/catkin_ws/devel/.private/explicit_coordinator/share/explicit_coordinator/cmake/explicit_coordinatorConfig.cmake /code/catkin_ws/devel/share/explicit_coordinator/cmake/explicit_coordinatorConfig.cmake
+/code/catkin_ws/devel/.private/explicit_coordinator/lib/python3/dist-packages/vehcoordinator/__init__.py /code/catkin_ws/devel/lib/python3/dist-packages/vehcoordinator/__init__.py
+/code/catkin_ws/devel/.private/explicit_coordinator/lib/pkgconfig/explicit_coordinator.pc /code/catkin_ws/devel/lib/pkgconfig/explicit_coordinator.pc

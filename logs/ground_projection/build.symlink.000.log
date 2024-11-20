@@ -1,0 +1,4 @@
+Symlinking /code/catkin_ws/devel/lib/pkgconfig/ground_projection.pc
+Symlinking /code/catkin_ws/devel/lib/python3/dist-packages/ground_projection/__init__.py
+Symlinking /code/catkin_ws/devel/share/ground_projection/cmake/ground_projectionConfig-version.cmake
+Symlinking /code/catkin_ws/devel/share/ground_projection/cmake/ground_projectionConfig.cmake

@@ -1,0 +1,5 @@
+dt-core/csce274project4
+/code/catkin_ws/devel/.private/csce274project4/cmake.lock /code/catkin_ws/devel/./cmake.lock
+/code/catkin_ws/devel/.private/csce274project4/share/csce274project4/cmake/csce274project4Config.cmake /code/catkin_ws/devel/share/csce274project4/cmake/csce274project4Config.cmake
+/code/catkin_ws/devel/.private/csce274project4/share/csce274project4/cmake/csce274project4Config-version.cmake /code/catkin_ws/devel/share/csce274project4/cmake/csce274project4Config-version.cmake
+/code/catkin_ws/devel/.private/csce274project4/lib/pkgconfig/csce274project4.pc /code/catkin_ws/devel/lib/pkgconfig/csce274project4.pc

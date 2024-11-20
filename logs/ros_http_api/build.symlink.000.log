@@ -1,0 +1,4 @@
+Symlinking /code/catkin_ws/devel/lib/pkgconfig/ros_http_api.pc
+Symlinking /code/catkin_ws/devel/lib/python3/dist-packages/dt_ros_api/__init__.py
+Symlinking /code/catkin_ws/devel/share/ros_http_api/cmake/ros_http_apiConfig-version.cmake
+Symlinking /code/catkin_ws/devel/share/ros_http_api/cmake/ros_http_apiConfig.cmake

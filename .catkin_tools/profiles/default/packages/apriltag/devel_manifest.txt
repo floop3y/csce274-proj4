@@ -1,0 +1,5 @@
+dt-core/packages/apriltag
+/code/catkin_ws/devel/.private/apriltag/cmake.lock /code/catkin_ws/devel/./cmake.lock
+/code/catkin_ws/devel/.private/apriltag/share/apriltag/cmake/apriltagConfig.cmake /code/catkin_ws/devel/share/apriltag/cmake/apriltagConfig.cmake
+/code/catkin_ws/devel/.private/apriltag/share/apriltag/cmake/apriltagConfig-version.cmake /code/catkin_ws/devel/share/apriltag/cmake/apriltagConfig-version.cmake
+/code/catkin_ws/devel/.private/apriltag/lib/pkgconfig/apriltag.pc /code/catkin_ws/devel/lib/pkgconfig/apriltag.pc

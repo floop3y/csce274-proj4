@@ -1,0 +1,6 @@
+dt-core/packages/led_detection
+/code/catkin_ws/devel/.private/led_detection/cmake.lock /code/catkin_ws/devel/./cmake.lock
+/code/catkin_ws/devel/.private/led_detection/share/led_detection/cmake/led_detectionConfig.cmake /code/catkin_ws/devel/share/led_detection/cmake/led_detectionConfig.cmake
+/code/catkin_ws/devel/.private/led_detection/share/led_detection/cmake/led_detectionConfig-version.cmake /code/catkin_ws/devel/share/led_detection/cmake/led_detectionConfig-version.cmake
+/code/catkin_ws/devel/.private/led_detection/lib/python3/dist-packages/led_detection/__init__.py /code/catkin_ws/devel/lib/python3/dist-packages/led_detection/__init__.py
+/code/catkin_ws/devel/.private/led_detection/lib/pkgconfig/led_detection.pc /code/catkin_ws/devel/lib/pkgconfig/led_detection.pc

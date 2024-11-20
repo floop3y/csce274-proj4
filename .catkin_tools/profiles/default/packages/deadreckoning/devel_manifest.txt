@@ -1,0 +1,5 @@
+dt-core/packages/deadreckoning
+/code/catkin_ws/devel/.private/deadreckoning/cmake.lock /code/catkin_ws/devel/./cmake.lock
+/code/catkin_ws/devel/.private/deadreckoning/share/deadreckoning/cmake/deadreckoningConfig.cmake /code/catkin_ws/devel/share/deadreckoning/cmake/deadreckoningConfig.cmake
+/code/catkin_ws/devel/.private/deadreckoning/share/deadreckoning/cmake/deadreckoningConfig-version.cmake /code/catkin_ws/devel/share/deadreckoning/cmake/deadreckoningConfig-version.cmake
+/code/catkin_ws/devel/.private/deadreckoning/lib/pkgconfig/deadreckoning.pc /code/catkin_ws/devel/lib/pkgconfig/deadreckoning.pc
